@@ -26,7 +26,9 @@ Bioinformatician and predoctoral researcher specializing in **Applied Artificial
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OPSergio&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPSergio&show_icons=true&theme=tokyonight)
 
