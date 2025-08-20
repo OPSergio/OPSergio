@@ -46,7 +46,7 @@ Bioinformatician and predoctoral researcher specializing in **Applied Artificial
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - Email: [solmos97@gmail.com]
 - [LinkedIn](#https://www.linkedin.com/in/sergio-olmos-pi%C3%B1ero-aa5935213/)
