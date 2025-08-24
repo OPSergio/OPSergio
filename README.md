@@ -36,7 +36,6 @@ Bioinformatician and predoctoral researcher specializing in **Applied Artificial
 
 ---
 
-
 ## Current Interests
 
 - Applied AI in public health and genomics
@@ -50,7 +49,6 @@ Bioinformatician and predoctoral researcher specializing in **Applied Artificial
 
 - Email: [solmos97@gmail.com]
 - [LinkedIn](#https://www.linkedin.com/in/sergio-olmos-pi%C3%B1ero-aa5935213/)
-
 
 ---
 
