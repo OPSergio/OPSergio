@@ -44,7 +44,6 @@ Bioinformatician and predoctoral researcher specializing in **Applied Artificial
 - Scientific tool development in Python & R
 
 ---
-
 ## Let's Connect
 
 - Email: [solmos97@gmail.com]
